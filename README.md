@@ -30,4 +30,3 @@ npm 包：[`@niigelog/scanops`](https://www.npmjs.com/package/@niigelog/scanops)
 - **需要 HTTPS 或 localhost** —— 浏览器只在安全上下文中开放摄像头。
 - **仅提供 ESM 入口** —— React 组件需要 React 18.2 或 19。
 
-更新日志见随包附带的 `CHANGELOG.md`。
